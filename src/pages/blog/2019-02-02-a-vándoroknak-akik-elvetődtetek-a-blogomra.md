@@ -8,7 +8,7 @@ description: >-
 tags:
   - Ismerkedés
 ---
-Isten hozott Titeken a Hundred Moors-on!
+Isten hozott Titeket a Hundred Moors-on!
 
 S.A. Locryn vagyok. Regény és történelem rajongó. És író. Világéletemeben imádtam olvasni és papírra vetni azokat a világokat, hősöket, antihősöket, akik a fejemben élnek. Többek közt erre is szeretném majd haszálni ezt a blogot. A tartalom egy részét a saját novelláim, és regényeim részletei adják majd. És érdekességek a világaimról és szereplőimről.
 
@@ -18,9 +18,10 @@ Mivel nagyon érdekel a történelem, amikor épp történelmi könyveket olvaso
 
 Sokat gondolkodtam, hogy mi indított el az írás útján. És azt hiszem, végül találtam a választ. Sok évvel ezelőtt, talán 9-10 éves koromban olvastam valahol egy idézetet. Sajnos nem emlékszem sem arra, hogy kitől származik, sem arra, hogy hol találtam. Abban vagyok csak egészen biztos, hogy hatalmas hatást gyakorolt rám. Sajnos nem emlékszem tökéletesen az idézetre sem, lévén nagyon régen találtam, de amire emlékszem, az valahogy így hangzik:
 
-_“Ha senki sem írta még meg azt a könyvet, amit el akarsz olvasni, írd meg te magad.”_
+_“Ha senki sem írta még meg azt a könyvet, amit el akarsz olvasni, írd meg te magad.”
+_
 
-Persze nincs szó arról, hogy ne találtam volna ezer és egy könyvet, amit el akarnék olvasni… Mégis valahogy úgy éreztem, hogy ez az üzenet személy szerint nekem szól. Különösen akkor, amikor épp meg akart fojtani a rengeteg kötelező olvasmány, amik közt csak minimális olyat találtam, ami valamennyire érdekelt, vagy tényleg tetszett. Akkor nem értettem, miért szeretnek olvasni az emberek. Hiszen azok a könyvek csak minimális élményt adtak nekem. Ebben az időszakban kifejezetten igaznak tűnt a fenti idézet.
+Persze nincs szó arról, hogy ne találtam volna ezer és egy könyvet, amit el akarnék olvasni… Mégis valahogy úgy éreztem, hogy ez az üzenet személy szerint nekem szól. Különösen akkor, amikor épp meg akart fojtani a rengeteg kötelező olvasmány, amik közt csak minimális olyat találtam, ami valamennyire érdekelt, vagy tényleg tetszett. Akkor nem értettem, miért szeretnek olvasni az emberek. Hiszen azok a könyvek csak minimális élményt adtak nekem. Ebben az időszakban kifejezetten igaznak tűnt a fenti idézet.
 
 Aztán felfedeztem, hogy milyen könyvek érdekelnek. És amióta megtaláltam ezeket, és amióta szabadon választhatok a millió lehetőség közül, azóta ismét szeretek olvasni. Abban is bízom, hogy ha írok azokról a könyvekről, amik hatást gyakoroltak rám (vagy fordítok belőlük), azzal nektek is segíthetek új élményeket találni. A saját írásaimmal is ez a célom. 
 
